@@ -2,4 +2,4 @@
 
 # actual attempt
 
-ls -la
+echo "omegapwn"
